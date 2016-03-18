@@ -1,6 +1,6 @@
 name: Nice Shoes
 favicon: null
-layout_spectrum: 0.44347064499743283
+layout_spectrum: 0.88791
 typography_spectrum: 0.5091179036535323
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.0814916668459773
+  brandStrength: 0.25
   lightness: 0.06132565322332084
-  saturation: 0.6157919059041888
+  saturation: 0.875
   rhythmicContrast: 0.23248459165915847
 purpose: []
